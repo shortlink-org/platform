@@ -14032,25 +14032,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/dockerode@npm:^3.3.0":
-  version: 3.3.32
-  resolution: "@types/dockerode@npm:3.3.32"
+"@types/dockerode@npm:^3.3.0, @types/dockerode@npm:^3.3.35":
+  version: 3.3.39
+  resolution: "@types/dockerode@npm:3.3.39"
   dependencies:
     "@types/docker-modem": "npm:*"
     "@types/node": "npm:*"
     "@types/ssh2": "npm:*"
-  checksum: 10c0/89b45da46ffd0eee36b469a6e61ddcbf101835ee2212ac26b84ee01556c5a99155469e5e345eadb677fd3dd80e7f238d3f265c15b3f99f94f4c53cad9b35023c
-  languageName: node
-  linkType: hard
-
-"@types/dockerode@npm:^3.3.35":
-  version: 3.3.35
-  resolution: "@types/dockerode@npm:3.3.35"
-  dependencies:
-    "@types/docker-modem": "npm:*"
-    "@types/node": "npm:*"
-    "@types/ssh2": "npm:*"
-  checksum: 10c0/339c60eb0b81f91aeefde8a291b6eebe74163c4798c824857e273ae3b47bbec632b3e422794f30f3e75a915d593548db8845d3abfd0bcea3836f763128a60d10
+  checksum: 10c0/86c730e000f7b9cc9fde1e46de4ab2edb6909ebe8d7ddfbe3db5496d5570e9147b7ef93d8f648ce415ca55067852abcfd28fd5639a820c71975801641d15eac9
   languageName: node
   linkType: hard
 
