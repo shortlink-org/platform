@@ -1419,20 +1419,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@axis-backstage/plugin-readme-backend@npm:^0.12.0":
-  version: 0.12.0
-  resolution: "@axis-backstage/plugin-readme-backend@npm:0.12.0"
+"@axis-backstage/plugin-readme-backend@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "@axis-backstage/plugin-readme-backend@npm:0.14.0"
   dependencies:
-    "@backstage/backend-defaults": "npm:^0.8.1"
-    "@backstage/backend-plugin-api": "npm:^1.2.0"
-    "@backstage/catalog-client": "npm:^1.9.1"
-    "@backstage/catalog-model": "npm:^1.7.3"
+    "@backstage/backend-defaults": "npm:^0.11.0"
+    "@backstage/backend-plugin-api": "npm:^1.4.0"
+    "@backstage/catalog-client": "npm:^1.10.1"
+    "@backstage/catalog-model": "npm:^1.7.4"
+    "@backstage/config": "npm:^1.3.2"
     "@backstage/errors": "npm:^1.2.7"
-    "@backstage/integration": "npm:^1.16.1"
+    "@backstage/integration": "npm:^1.17.0"
+    "@backstage/types": "npm:^1.2.1"
     "@types/express": "npm:*"
     express: "npm:^4.17.1"
     express-promise-router: "npm:^4.1.0"
-  checksum: 10c0/ff6051eefe1749cad9f79837fc146a89144425625438da38aee9ccf83eff475b1f8318bb042bff2519566aa413a261fea50785d31b8c41bcfe74f5e5e7dfca45
+  checksum: 10c0/e788018627690beedf2303cc51af6c946c3b29bc9418b7d575eedc1721934525d1a60570857178c4e82c608b12f40f0e3fb024f3d627c608eeaa1affe82bfa60
   languageName: node
   linkType: hard
 
@@ -3507,7 +3509,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/backend-defaults@npm:^0.11.1":
+"@backstage/backend-defaults@npm:^0.11.0, @backstage/backend-defaults@npm:^0.11.1":
   version: 0.11.1
   resolution: "@backstage/backend-defaults@npm:0.11.1"
   dependencies:
@@ -3785,7 +3787,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/backend-plugin-api@npm:^1.4.1":
+"@backstage/backend-plugin-api@npm:^1.4.0, @backstage/backend-plugin-api@npm:^1.4.1":
   version: 1.4.1
   resolution: "@backstage/backend-plugin-api@npm:1.4.1"
   dependencies:
@@ -3828,7 +3830,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/catalog-client@npm:^1.10.2":
+"@backstage/catalog-client@npm:^1.10.1, @backstage/catalog-client@npm:^1.10.2":
   version: 1.10.2
   resolution: "@backstage/catalog-client@npm:1.10.2"
   dependencies:
@@ -5078,7 +5080,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/integration@npm:^1.17.1":
+"@backstage/integration@npm:^1.17.0, @backstage/integration@npm:^1.17.1":
   version: 1.17.1
   resolution: "@backstage/integration@npm:1.17.1"
   dependencies:
@@ -16545,7 +16547,7 @@ __metadata:
   resolution: "app@workspace:packages/app"
   dependencies:
     "@axis-backstage/plugin-readme": "npm:^0.13.0"
-    "@axis-backstage/plugin-readme-backend": "npm:^0.12.0"
+    "@axis-backstage/plugin-readme-backend": "npm:^0.14.0"
     "@backstage-community/plugin-lighthouse": "npm:^0.7.0"
     "@backstage-community/plugin-tech-radar": "npm:^1.3.0"
     "@backstage-community/plugin-todo": "npm:^0.5.0"
@@ -17369,7 +17371,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "backend@workspace:packages/backend"
   dependencies:
-    "@axis-backstage/plugin-readme-backend": "npm:^0.12.0"
+    "@axis-backstage/plugin-readme-backend": "npm:^0.14.0"
     "@backstage-community/plugin-todo-backend": "npm:^0.7.0"
     "@backstage/backend-common": "npm:^0.25.0"
     "@backstage/backend-tasks": "npm:^0.6.1"
