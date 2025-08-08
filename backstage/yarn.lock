@@ -3263,22 +3263,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage-community/plugin-todo@npm:^0.5.0":
-  version: 0.5.0
-  resolution: "@backstage-community/plugin-todo@npm:0.5.0"
+"@backstage-community/plugin-todo@npm:^0.11.0":
+  version: 0.11.1
+  resolution: "@backstage-community/plugin-todo@npm:0.11.1"
   dependencies:
-    "@backstage/catalog-model": "npm:^1.7.3"
-    "@backstage/core-components": "npm:^0.16.4"
-    "@backstage/core-plugin-api": "npm:^1.10.4"
+    "@backstage/catalog-model": "npm:^1.7.5"
+    "@backstage/core-compat-api": "npm:^0.4.4"
+    "@backstage/core-components": "npm:^0.17.4"
+    "@backstage/core-plugin-api": "npm:^1.10.9"
     "@backstage/errors": "npm:^1.2.7"
-    "@backstage/plugin-catalog-react": "npm:^1.15.2"
+    "@backstage/frontend-plugin-api": "npm:^0.10.4"
+    "@backstage/plugin-catalog-react": "npm:^1.19.1"
     "@material-ui/icons": "npm:^4.9.1"
     "@types/react": "npm:^16.13.1 || ^17.0.0"
   peerDependencies:
     react: ^16.13.1 || ^17.0.0 || ^18.0.0
     react-dom: ^16.13.1 || ^17.0.0 || ^18.0.0
     react-router-dom: 6.0.0-beta.0 || ^6.3.0
-  checksum: 10c0/5c917af622dd3ce969d8df8e0c5b387eefd98e0fb24f6b189898487b229a4117e4ced3a6e8a340637be7532854ccf59624a18635c75366e9eb8bda076e2034ba
+  checksum: 10c0/6deb1775e938056560d98fef00b326adbde64dd8ac8917a4a3965328e735307ea7ef8bb660200033521bef9484abd0eca94d6c75a09045832557036fd955e902
   languageName: node
   linkType: hard
 
@@ -16548,7 +16550,7 @@ __metadata:
     "@axis-backstage/plugin-readme-backend": "npm:^0.12.0"
     "@backstage-community/plugin-lighthouse": "npm:^0.7.0"
     "@backstage-community/plugin-tech-radar": "npm:^1.3.0"
-    "@backstage-community/plugin-todo": "npm:^0.5.0"
+    "@backstage-community/plugin-todo": "npm:^0.11.0"
     "@backstage/app-defaults": "npm:^1.5.17"
     "@backstage/catalog-model": "npm:^1.7.3"
     "@backstage/cli": "npm:^0.30.0"
