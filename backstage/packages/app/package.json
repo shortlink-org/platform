@@ -25,7 +25,7 @@
     "@backstage-community/plugin-todo": "^0.11.0",
     "@backstage/app-defaults": "^1.5.17",
     "@backstage/catalog-model": "^1.7.3",
-    "@backstage/cli": "^0.33.0",
+    "@backstage/cli": "^0.34.0",
     "@backstage/core-app-api": "^1.15.5",
     "@backstage/core-components": "^0.17.0",
     "@backstage/core-plugin-api": "^1.10.4",
