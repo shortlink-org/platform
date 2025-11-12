@@ -1447,16 +1447,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@axis-backstage/plugin-readme@npm:^0.14.0":
-  version: 0.14.0
-  resolution: "@axis-backstage/plugin-readme@npm:0.14.0"
+"@axis-backstage/plugin-readme@npm:^0.17.0":
+  version: 0.17.0
+  resolution: "@axis-backstage/plugin-readme@npm:0.17.0"
   dependencies:
-    "@backstage/catalog-model": "npm:^1.7.4"
-    "@backstage/core-components": "npm:^0.17.3"
-    "@backstage/core-plugin-api": "npm:^1.10.8"
+    "@backstage/catalog-model": "npm:^1.7.5"
+    "@backstage/core-compat-api": "npm:^0.5.1"
+    "@backstage/core-components": "npm:^0.17.5"
+    "@backstage/core-plugin-api": "npm:^1.10.9"
     "@backstage/errors": "npm:^1.2.7"
-    "@backstage/plugin-catalog-react": "npm:^1.19.0"
-    "@backstage/theme": "npm:^0.6.6"
+    "@backstage/frontend-plugin-api": "npm:^0.11.0"
+    "@backstage/plugin-catalog-react": "npm:^1.20.1"
+    "@backstage/theme": "npm:^0.6.8"
     "@mui/icons-material": "npm:^5.15.7"
     "@mui/material": "npm:^5.15.7"
     react-use: "npm:^17.2.4"
@@ -1465,7 +1467,7 @@ __metadata:
     react: ^17.0.0 || ^18.0.0
     react-dom: ^17.0.0 || ^18.0.0
     react-router-dom: ^6.3.0
-  checksum: 10c0/f956e0c5faa302d15a66931fb9501365106a964ee09fa750fe935181afed89830e97b82e813f4a671febd2b32f3f87d4d27ec6833d87bc16b2f23ec55e2028c7
+  checksum: 10c0/ebb21d8688f9f16628f117a5c53d9b5771883321e5cf19ebea4cd8cdda121c82717d36c6a2c5d124a9f6380ecb47fbd84262e00139744cf86bfb3fc6e0c09437
   languageName: node
   linkType: hard
 
@@ -14657,7 +14659,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "app@workspace:packages/app"
   dependencies:
-    "@axis-backstage/plugin-readme": "npm:^0.14.0"
+    "@axis-backstage/plugin-readme": "npm:^0.17.0"
     "@axis-backstage/plugin-readme-backend": "npm:^0.12.0"
     "@backstage-community/plugin-lighthouse": "npm:^0.12.0"
     "@backstage-community/plugin-tech-radar": "npm:^1.3.0"
