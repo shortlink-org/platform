@@ -3303,7 +3303,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/core-compat-api@npm:^0.4.3, @backstage/core-compat-api@npm:^0.4.4":
+"@backstage/core-compat-api@npm:^0.4.4":
   version: 0.4.4
   resolution: "@backstage/core-compat-api@npm:0.4.4"
   dependencies:
@@ -3666,7 +3666,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@backstage/frontend-plugin-api@npm:^0.10.3, @backstage/frontend-plugin-api@npm:^0.10.4":
+"@backstage/frontend-plugin-api@npm:^0.10.4":
   version: 0.10.4
   resolution: "@backstage/frontend-plugin-api@npm:0.10.4"
   dependencies:
@@ -10751,15 +10751,15 @@ __metadata:
   linkType: hard
 
 "@roadiehq/backstage-plugin-argo-cd@npm:^2.8.7":
-  version: 2.10.0
-  resolution: "@roadiehq/backstage-plugin-argo-cd@npm:2.10.0"
+  version: 2.12.0
+  resolution: "@roadiehq/backstage-plugin-argo-cd@npm:2.12.0"
   dependencies:
-    "@backstage/catalog-model": "npm:^1.7.4"
-    "@backstage/core-compat-api": "npm:^0.4.3"
-    "@backstage/core-components": "npm:^0.17.3"
-    "@backstage/core-plugin-api": "npm:^1.10.8"
-    "@backstage/frontend-plugin-api": "npm:^0.10.3"
-    "@backstage/plugin-catalog-react": "npm:^1.19.0"
+    "@backstage/catalog-model": "npm:^1.7.5"
+    "@backstage/core-compat-api": "npm:^0.5.3"
+    "@backstage/core-components": "npm:^0.18.2"
+    "@backstage/core-plugin-api": "npm:^1.11.1"
+    "@backstage/frontend-plugin-api": "npm:^0.12.1"
+    "@backstage/plugin-catalog-react": "npm:^1.21.2"
     "@material-ui/core": "npm:^4.12.2"
     "@material-ui/icons": "npm:^4.9.1"
     cross-fetch: "npm:^3.1.4"
@@ -10774,7 +10774,7 @@ __metadata:
     react-dom: ^16.13.1 || ^17.0.0 || ^18.0.0
     react-router: 6.0.0-beta.0  || ^6.3.0
     react-router-dom: 6.0.0-beta.0  || ^6.3.0
-  checksum: 10c0/d9425056494730186db7508f91ca3ff450496de4d64cd3aeb185eea623993f7b02f772a316ad3a04bef4e666694eed5c6a747e1663a979ac846f394ac7fe62cb
+  checksum: 10c0/90a81b620e5b5b44f4cb947ebc57f984897b44786344f88e27110b4716bc604a77eea9bf2c043eab1eb7f8682984a20d9f6eb72fdcc77fb778c9b5d4bc3b308c
   languageName: node
   linkType: hard
 
