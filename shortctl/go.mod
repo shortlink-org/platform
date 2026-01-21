@@ -4,7 +4,7 @@ go 1.24.1
 
 require (
 	github.com/pterm/pterm v0.12.81
-	github.com/spf13/cobra v1.9.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 )
 
