@@ -10817,14 +10817,14 @@ __metadata:
   linkType: hard
 
 "@roadiehq/backstage-plugin-prometheus@npm:^3.0.0":
-  version: 3.1.0
-  resolution: "@roadiehq/backstage-plugin-prometheus@npm:3.1.0"
+  version: 3.2.0
+  resolution: "@roadiehq/backstage-plugin-prometheus@npm:3.2.0"
   dependencies:
-    "@backstage/catalog-model": "npm:^1.7.4"
-    "@backstage/core-components": "npm:^0.17.3"
-    "@backstage/core-plugin-api": "npm:^1.10.8"
-    "@backstage/plugin-catalog-react": "npm:^1.19.0"
-    "@backstage/theme": "npm:^0.6.6"
+    "@backstage/catalog-model": "npm:^1.7.5"
+    "@backstage/core-components": "npm:^0.18.2"
+    "@backstage/core-plugin-api": "npm:^1.11.1"
+    "@backstage/plugin-catalog-react": "npm:^1.21.2"
+    "@backstage/theme": "npm:^0.7.0"
     "@material-ui/core": "npm:^4.12.2"
     "@material-ui/lab": "npm:4.0.0-alpha.45"
     "@types/recharts": "npm:^1.8.14"
@@ -10837,7 +10837,7 @@ __metadata:
   peerDependencies:
     react: ^16.13.1 || ^17.0.0 || ^18.0.0
     react-dom: ^16.13.1 || ^17.0.0 || ^18.0.0
-  checksum: 10c0/48315b9b4126cd18e5498be86ccaffe4d7a61b26bea54a55ed462d78d0c215da96e5595bc323de2f1f078d3f19f3fc38c25326dec6510f2c4d1bf291e7b9a68b
+  checksum: 10c0/57990bbc2ddd3d53d54ad6d07defb45259f61eb5c95147daab47587bfc81c08707848af73c6617a772d491b4629a043f294c42ad6bcbbed6943d95a3733dd3a3
   languageName: node
   linkType: hard
 
